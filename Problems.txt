@@ -1,0 +1,168 @@
+https://leetcode.com/discuss/interview-question/1033264/amazon-oa-1-year-experienced-for-sde1
+
+
+
+
+
+
+
+
+MY RESUME IS NOT OUTDATED
+I AM IN 3rd sem only
+
+
+Kaggle is a good resource for verified datasets 
+
+Yes, I have participated in competitions
+
+Precision is less as of now, I am improving.
+
+parallel computing
+maybe we need to look
+data is biggggg
+take sample
+
+tradeoff between data and accuracy
+
+gpu power
+My college has gpu support
+google colab
+parallel programming
+threads
+multiple cores
+
+cores?
+task manager?
+big games??
+cache memory is faster
+bus speed
+
+c++ 
+python - interpreted language 
+(it runs every line, execute it and takes time)
+
+
+
+c++ - compiler based
+(whole program at once)
+(C++ generates .out file, that is platform independent)
+
+
+(HR round it is, be soft)
+career
+data science
+Research - curious to learn 
+problem solving
+analytical
+
+motivated
+patience for results
+
+I did my best
+and i learned a lot eg m1 chip was new to me
+I am confident
+m1 chip....
+architecture but i will learn more on it
+
+youtube 
+
+no constraints, I am flexible.
+sure
+no red flags
+
+
+questions
+feedback
+work culture
+in corona times, in reserach, how is it going
+work from home
+
+end it
+
+em
+
+
+Complexity of the problem - O(mn)
+
+returning the answer to all the paths in a string
+v.push_back(s);
+
+just update it with c++;
+
+if is 0 that means no obstacle there
+ if(matrix[i-1][j-1] == 0)
+
+
+ cross-validation
+
+ repeat
+
+ yes because underfitting
+
+ feedback
+ internal or customer directed
+ sounds great excited to work on the same 
+ hoping 
+
+
+
+
+ Tell about features of Term deposit
+ Decision Trees
+
+ Underfitting – High bias and low variance 
+ Overfitting – High variance and low bias
+  
+  lets say we have a data with 99 perc 1 and 
+  1 per 0 then the machine learn
+  will get to know from test data
+  it doesnot work in test dataaa
+
+  he might be reading from GFG
+  Don't read please
+
+  We penalize the dataset
+  L1 and L2
+  ridge and lasso
+
+  when we have multiple local minima
+
+  learning rate
+
+  to use the probability
+
+  sigmoid
+
+   Confusion Matrix · 2. Type I Error · 3. Type II Error · 4. Accuracy · 5. Recall/ Sensitivity/ TPR · 6. Precision · 7. Specificity · 8. F1 Score.
+
+
+
+   battery switch is not on
+   ON it
+   do it fast 
+   it is going to turn off soon
+
+differenet type of data
+like circular
+
+
+preprocessing
+NULL values
+multi class data or binary
+
+Decision tree??
+
+
+open notepad
+
+Importing libraries
+I will read  the data from pandas
+
+y_target = data['Survived']
+x_train = data[['Pclass', 'Age', 'Sex', 'SibSp', 'Parch', 'Fare','Embarked', 'Ticket']]
+
+train.isnull().sum() we will check for NULL values
+
+feedback
+work culture
+Netflix recommendor things - Teradata how?

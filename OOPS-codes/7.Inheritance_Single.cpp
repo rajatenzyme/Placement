@@ -14,7 +14,7 @@ using namespace std;
 
 
 class ParentClass{
-    public:
+    protected:
         int salary = 5000;
 
 };
@@ -22,13 +22,13 @@ class ParentClass{
 class childClass : public ParentClass{
 
     public:
-        int bonus = 100;
+        int bonus = 100 + salary;
 };
 
 int main(){
 
     childClass obj;
-    int TotalSalary = obj.salary + obj.bonus;
+    int TotalSalary = obj.bonus;
     cout<<"Total Salary is "<<TotalSalary<<endl;
 
 

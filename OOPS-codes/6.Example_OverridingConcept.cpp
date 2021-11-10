@@ -31,6 +31,6 @@ int main(){
 }
 
 
-//In short Method riding is the technique to execute child functionality instead of parent's with the
+//In short, Method overriding is the technique to execute child functionality instead of parent's with the
 //same functions. Some times we want to create same functions for child, but we want to change some
 // code. Then we can use Overriding to Override Parent's function.  
