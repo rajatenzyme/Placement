@@ -11,8 +11,8 @@ If we make our own copy constructor also, then it won't even make copy construct
 -> We can also make our own copy constructor by passing refernce of a object
 
 Complex(Complex &c1){  //Copy Constructor
-    a = c.a;
-    b = c.b; 
+    a = c1.a;
+    b = c1.b; 
 }
 
 Complex( int &k){ // Not a copy constructor
