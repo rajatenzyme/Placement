@@ -29,5 +29,9 @@ int main(){
     Complex c5 = 6; //Valid only for single value constructor
     Complex c3; 
     Complex c4 = Complex(1,5); // different way to write - same meaning
+    Complex *c6 = new Complex(1,5); // new keyword used for pointer
+    //Complex c4 = new Complex(1,5); // this will be wrong as c4 is not pointer
+
+
 
 }
