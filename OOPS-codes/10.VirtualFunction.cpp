@@ -1,5 +1,5 @@
 /* Virtual Function
-    Pointer: Pointe can point to same data type pointer only. e.g.
+    Pointer: Pointer can point to same data type pointer only. e.g.
     we create one int pointer, then it can point to int variables only.
     Base class Pointer:
     ->Base class pointer can point to the object of any its descendent's (children) class
@@ -13,7 +13,7 @@
     We create another object from Child Class B. (Child objChild)
     Now, we store address of child class's object address to pointer ptr. (ptr = &objChild)
 
-    If we call p->f1() Then it will do Early Binding and it will call parent f1() functionality.
+    If we call ptr->f1() Then it will do Early Binding and it will call parent f1() functionality.
     But we have saved address of Child class object then why it is calling parent class??
     This is just because compiler on compile time differentiate on the basis of pointer type not on
     address, because compiler doesn't know about the memory allocation of pointers.
