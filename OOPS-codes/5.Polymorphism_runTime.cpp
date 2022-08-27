@@ -78,4 +78,7 @@ Class::Derived
 // 	return 0;
 // }
 
-
+/*
+print derived class
+show base class
+*/
