@@ -12,7 +12,7 @@
 
     ---Why we call it as a contructor?--- (Solves Problem of initialization)
     ->It is used to create object of an object
-    e.g. - When someone says us - "Being human". But we are already a man.
+    e.g. - When someone says us - "Being human". But we are already a human.
     Then what is the meaning of this is that we might not have all the characteristics of a human.
      
     e.g. When we create an object of a car variable, it contains some garbage value. We can't even
